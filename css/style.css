@@ -8,4 +8,21 @@ p{
   font-family: 'Courier New', Courier, monospace;
   font-weight: bold;
   background-color: bisque;
+  
+}
+ul li{
+  list-style: none;
+  margin-bottom: 15px;
+  
+ 
+}
+ul li a {
+  text-decoration: none;
+  background-color: burlywood;
+  padding: 5px 5px;
+   border: 2px solid blueviolet;
+  border-radius: 10px;
+  box-shadow: 10px 10px 10px blueviolet;
+  color: black;
+
 }
